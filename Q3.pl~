@@ -1,0 +1,2 @@
+<=(3,7).
+prince(X,Y):-reigins(X,A,B),Y>=A,Y=<B.

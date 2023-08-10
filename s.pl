@@ -1,0 +1,1 @@
+likes(lamar,flower),green(flower).

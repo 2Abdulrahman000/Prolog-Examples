@@ -1,0 +1,5 @@
+add(X1,X2):-X2 is X1+1.
+more([X,Y,Z],[S1,S2,S3]) :-add(X,S1),add(Y,S2), add(Z,S3).
+cre([X,Y,Z],L) :-add(X,S1),add(Y,S2), add(Z,S3).
+
+
